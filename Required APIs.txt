@@ -1,0 +1,5 @@
+Required APIs : 
+	1. Product Description
+	2. Show Comments
+	3. Show vote counts / Vote average
+	4. Comments counts
